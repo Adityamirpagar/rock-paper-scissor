@@ -1,4 +1,6 @@
-## Rock paper and Scissors Game by Aditya Mirpagar
+## Rock paper and Scissors Game by [Aditya Mirpagar](https://github.com/Adityamirpagar/rock-paper-scissor.git)
+
+
 
 **This project uses Python3**
 
