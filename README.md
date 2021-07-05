@@ -11,15 +11,15 @@
 *To run the program simply use "$ pyhon3 rock.py"*
 
 
-**[prerequisites](https://docs.python.org/3/library/tkinter.html)**
+**prerequisites**
 
-1. **tkinter**
+1. **[tkinter](https://docs.python.org/3/library/tkinter.html)**
 * *tkinter is a python library which is used to make basic GUI applocations. It can be installed by typing "$ sudo apt install python3-tk" (for linux users)*
 
-2. **PIL**
+2. **[PIL](https://pypi.org/project/Pillow/)**
 * *PIL is python imaging library, is used for importing images, or just in a way interact with images in the program. it can be installed by typing "$ pip install Pillow" (for linux user, "p is capital in Pillow")*
 
-3. **PIP**
+3. **[PIP](https://pypi.org/project/Pillow/)**
 * *PIP is a package installer for python. It is used to install different python indexes or programs (like Pillow)*
 
 **Description**
