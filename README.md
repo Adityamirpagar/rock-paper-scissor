@@ -11,7 +11,7 @@
 *To run the program simply use "$ pyhon3 rock.py"*
 
 
-**prerequisites**
+**[prerequisites](https://docs.python.org/3/library/tkinter.html)**
 
 1. **tkinter**
 * *tkinter is a python library which is used to make basic GUI applocations. It can be installed by typing "$ sudo apt install python3-tk" (for linux users)*
